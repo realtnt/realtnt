@@ -8,6 +8,8 @@ I am an aspiring Front End Developer living in the UK.
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-theontogiakos-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/theontogiakos/)
 
+<br/><br/>
+
 ## :hammer_and_wrench: Languages and Tools :
 
 <div>
@@ -20,11 +22,14 @@ I am an aspiring Front End Developer living in the UK.
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VS Code" alt="VS Code" width="40" height="40" />&nbsp;
 </div>
 
+<br/><br/>
+
 ## :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=realtnt&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realtnt&layout=compact&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=realtnt&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realtnt&layout=compact&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-
+<br/><br/>
 <div id="header" align="center">
   <div id="badges">
     <a href="https://www.linkedin.com/in/theontogiakos/">
@@ -35,12 +40,15 @@ I am an aspiring Front End Developer living in the UK.
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
-  <hr />
-  <h3>Have a laugh!</h3>
-  <p>
-    <img src="https://readme-jokes.vercel.app/api?theme=gotham&hideBorder" alt="Jokes Card" />
-  </p>
 </div>
+<br/>
+<hr />
+<br/>
+<h3>Have a laugh!</h3>
+<p>
+  <img src="https://readme-jokes.vercel.app/api?theme=gotham&hideBorder" alt="Jokes Card" />
+</p>
+
 
 <!--
 **realtnt/realtnt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
