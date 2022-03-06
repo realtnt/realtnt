@@ -7,11 +7,9 @@ I am an aspiring Front End Developer living in the UK.
 - :zap: In my free time, I solve Katas on CodeWars and watch [Kevin Powell](https://www.youtube.com/kevinpowell)'s videos on CSS.
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-theontogiakos-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/theontogiakos/)
-
 <br/><br/>
 
-## :hammer_and_wrench: Languages and Tools :
-
+## :hammer_and_wrench: Languages and Tools:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -21,13 +19,12 @@ I am an aspiring Front End Developer living in the UK.
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VS Code" alt="VS Code" width="40" height="40" />&nbsp;
 </div>
-
 <br/><br/>
 
-## :fire: My Stats :
+## :fire: My Stats:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=realtnt&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realtnt&layout=compact&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realtnt&hide_title=true&layout=compact&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/><br/>
 <div id="header" align="center">
@@ -44,7 +41,9 @@ I am an aspiring Front End Developer living in the UK.
 <br/>
 <hr />
 <br/>
-<h3>Have a laugh!</h3>
+
+## :laughing: Have a laugh!
+
 <p>
   <img src="https://readme-jokes.vercel.app/api?theme=gotham&hideBorder" alt="Jokes Card" />
 </p>
