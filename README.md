@@ -48,6 +48,14 @@ I am an aspiring Front End Developer living in the UK.
   <img src="https://readme-jokes.vercel.app/api?theme=gotham&hideBorder" alt="Jokes Card" />
 </p>
 
+## :deer: #bucksinsix
+
+<div id="bucks" align="center">
+  <h2> 💍💍 Milwaukee Bucks 💍💍</h2>
+  <h4>2021 NBA Champions</h4>
+  <img src="https://user-images.githubusercontent.com/7238688/156947485-b4533fc4-4673-41d4-a9a9-5d4b23bf192b.png">
+</div>
+  
 
 <!--
 **realtnt/realtnt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
