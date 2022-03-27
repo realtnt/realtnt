@@ -1,10 +1,10 @@
 ## 👨‍💻 About me:
 
-I am an aspiring Front End Developer living in the UK.
+Getting back into developing after a 20 year hiatus! Worked in games between 2000 and 2002 and started learning Web Dev in January 2022.
 
-- :seedling: I'm currently learning more about web development trying to build a portfolio.
+- :seedling: I'm currently learning HTML/CSS, JS and React.
 
-- :zap: In my free time, I solve Katas on CodeWars and watch [Kevin Powell](https://www.youtube.com/kevinpowell)'s videos on CSS.
+- :zap: In my free time, I like to cook, play tennis and shoot some hoops with my kids.
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-theontogiakos-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/theontogiakos/)
 <br/><br/>
