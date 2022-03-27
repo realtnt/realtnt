@@ -1,6 +1,6 @@
 ## 👨‍💻 About me:
 
-Getting back into developing after a 20 year hiatus! Worked in games between 2000 and 2002 and started learning Web Dev in January 2022.
+Getting back into dev after a 20 year hiatus! Worked in games between 2000 and 2002 and started learning Web Dev in January 2022.
 
 - :seedling: I'm currently learning HTML/CSS, JS and React.
 
