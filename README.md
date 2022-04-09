@@ -2,7 +2,7 @@
 
 Getting back into dev after a 20 year hiatus! Worked in games between 2000 and 2002 and started learning Web Dev in January 2022.
 
-- :seedling: I'm currently learning HTML/CSS, JS and React.
+- :seedling: I'm currently learning Ruby, Python, HTML/CSS, JS and React.
 
 - :zap: In my free time, I like to cook, play tennis and shoot some hoops with my kids.
 
