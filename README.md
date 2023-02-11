@@ -3,7 +3,11 @@
 ## 👨‍💻 About me:
 I am a software developer and tech enthusiast with a passion for solving complex problems and building beautiful, functional applications. I have experience with a variety of programming languages and technologies, and I'm always eager to learn more.
 
-Currently, I am working as a full time iOS developer. 
+Many years ago I worked as an audio programmer in games for a few years. I even have a dev's profile page!
+
+<img src="https://github.com/realtnt/realtnt/blob/main/GameProgrammingCredits.png" width="400">
+
+Currently, I am working as an iOS developer. It's a new experience and I have lots to learn but I'm loving it!
 
 ## Skills
 
@@ -91,8 +95,6 @@ Currently, I am working as a full time iOS developer.
   
 
 <!--
-**realtnt/realtnt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
   <a href="#">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
