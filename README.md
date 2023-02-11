@@ -1,7 +1,8 @@
+<html>
+  <head></head>
 ## 👨‍💻 About me:
-<div style="background-color: white; border-radius: 10px; padding: 20px;">
 Currently working as a full time iOS developer.
-</div>
+
 - :seedling: I'm currently learning Swift and SwiftUI.
 
 - :zap: In my free time, I like to cook, play tennis and shoot some hoops with my kids.
@@ -101,3 +102,4 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
 -->
+</html>
