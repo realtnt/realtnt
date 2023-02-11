@@ -1,7 +1,7 @@
 ## 👨‍💻 About me:
-
+<div style="background-color: white; border-radius: 10px; padding: 20px;">
 Currently working as a full time iOS developer.
-
+</div>
 - :seedling: I'm currently learning Swift and SwiftUI.
 
 - :zap: In my free time, I like to cook, play tennis and shoot some hoops with my kids.
