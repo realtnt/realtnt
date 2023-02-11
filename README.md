@@ -24,10 +24,6 @@ Currently, I am working as a full time iOS developer.
   - Agile software development
   - Test-driven development (TDD)
 
-- :fire: I'm always looking to learn new skills.
-
-- :zap: In my free time, I like to cook, play tennis and shoot some hoops with my kids.
-
 ## Contact Me
 - :mailbox: [![Linkedin Badge](https://img.shields.io/badge/-theontogiakos-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/theontogiakos/)
 <br/><br/>
