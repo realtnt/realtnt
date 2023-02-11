@@ -1,13 +1,37 @@
-<html>
-  <head></head>
-## 👨‍💻 About me:
-Currently working as a full time iOS developer.
+# Theo Ntogiakos
 
-- :seedling: I'm currently learning Swift and SwiftUI.
+![Theo](https://avatars.githubusercontent.com/u/7238688)
+
+## 👨‍💻 About me:
+I am a software developer and tech enthusiast with a passion for solving complex problems and building beautiful, functional applications. I have experience with a variety of programming languages and technologies, and I'm always eager to learn more.
+
+Currently, I am working as a full time iOS developer. 
+
+## Skills
+
+- Programming languages:
+  - Swift  
+  - JavaScript
+  - Python
+  - Ruby
+  - Java
+
+- Technologies:
+  - SwiftUI
+  - UIKit
+  - XCTest
+
+- Other skills:
+  - Git
+  - Agile software development
+  - Test-driven development (TDD)
+
+- :fire: I'm always looking to learn new skills.
 
 - :zap: In my free time, I like to cook, play tennis and shoot some hoops with my kids.
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-theontogiakos-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/theontogiakos/)
+## Contact Me
+- :mailbox: [![Linkedin Badge](https://img.shields.io/badge/-theontogiakos-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/theontogiakos/)
 <br/><br/>
 
 ## :hammer_and_wrench: Languages and Tools:
@@ -102,4 +126,3 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
 -->
-</html>
