@@ -1,7 +1,5 @@
 # Theo Ntogiakos
 
-![Theo](https://avatars.githubusercontent.com/u/7238688)
-
 ## 👨‍💻 About me:
 I am a software developer and tech enthusiast with a passion for solving complex problems and building beautiful, functional applications. I have experience with a variety of programming languages and technologies, and I'm always eager to learn more.
 
