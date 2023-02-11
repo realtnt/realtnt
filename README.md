@@ -10,7 +10,7 @@ Currently working as a full time iOS developer.
 <br/><br/>
 
 ## :hammer_and_wrench: Languages and Tools:
-<div>
+<div style="background-color: white; border-radius: 10px; padding: 20px;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
