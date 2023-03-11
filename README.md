@@ -3,7 +3,7 @@
 ## 👨‍💻 About me:
 I am a software developer and tech enthusiast with a passion for solving complex problems and building beautiful, functional applications. I have experience with a variety of programming languages and technologies, and I'm always eager to learn more.
 
-Many years ago I worked as an audio programmer in games for a few years. I even have a dev's profile page!
+Many years ago I worked as an audio programmer in games. I even have a dev's profile page! My 15ms of fame!
 
 <img src="https://github.com/realtnt/realtnt/blob/main/GameProgrammingCredits.png" width="400">
 
