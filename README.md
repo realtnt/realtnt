@@ -29,7 +29,7 @@ Currently, I am working as an iOS developer. It's a new experience and I have lo
   - Test-driven development (TDD)
 
 ## Contact Me
-- :mailbox: [![Linkedin Badge](https://img.shields.io/badge/-theontogiakos-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/theontogiakos/)
+- [![Linkedin Badge](https://img.shields.io/badge/-theontogiakos-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/theontogiakos/)
 <br/><br/>
 
 ## :hammer_and_wrench: Languages and Tools:
