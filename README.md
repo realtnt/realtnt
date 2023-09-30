@@ -28,6 +28,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg"  title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
 </div>
 <br/>
+<br/>
 <div id="header" align="center">
   <div id="badges">
     <a href="https://www.linkedin.com/in/theontogiakos/">
