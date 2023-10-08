@@ -4,7 +4,7 @@
 ```swift
   let programmingLanguages = ["Swift", "Ruby", "JavaScript", "Python"]
   let frameworks = ["SwiftUI", "UIKit", "XCTest"]
-  let tools = ["XCode", "VS Code", "LazyGit"]
+  let tools = ["XCode", "VSCodium", "LazyGit"]
 ```
 
 ## :envelope: Contact Me
