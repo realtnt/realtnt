@@ -15,17 +15,21 @@
 <div style="background-color: white; border-radius: 10px; padding: 20px;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="40" height="40"/>&nbsp;
   <img src="https://github.com/realtnt/realtnt/blob/main/swiftui-128x128_2x.png" title="SwiftUI" alt="SwiftUI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/realtnt/realtnt/blob/main/dot-23855.png" title="SwiftUI" alt="SwiftUI" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/realtnt/realtnt/blob/main/dot-23855.png" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg"  title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg"  title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/realtnt/realtnt/blob/main/dot-23855.png" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title="Xcode" alt="Xcode" width="40" height="40" />&nbsp;
-  <img src="https://github.com/realtnt/realtnt/blob/main/codium_cnl.svg" title="VSCodium" alt="VSCodium" width="40" height="40" />&nbsp;
-  <img src="https://github.com/realtnt/realtnt/blob/main/dot-23855.png" title="SwiftUI" alt="SwiftUI" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40" />&nbsp;
+  <img src="https://github.com/realtnt/realtnt/blob/main/dot-23855.png" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg" title="BitBucket" alt="BitBucket" width="40" height="40"/>&nbsp;
   <img src="https://github.com/realtnt/realtnt/blob/main/github.png" title="Github" alt="Github" width="40" height="40"/>&nbsp;
   <img src="https://github.com/realtnt/realtnt/blob/main/lazygit.png" title="LazyGit" alt="LazyGit" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/realtnt/realtnt/blob/main/dot-23855.png" title="SwiftUI" alt="SwiftUI" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/realtnt/realtnt/blob/main/dot-23855.png" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="Slack" alt="Slack" width="40" height="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg"  title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
+  
 </div>
 <br/>
 <br/>
